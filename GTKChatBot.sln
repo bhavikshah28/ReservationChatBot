@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTKChatBot", "GTKChatBot\GTKChatBot.csproj", "{4C24C2CE-03F3-4FBB-A357-96597C298239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C24C2CE-03F3-4FBB-A357-96597C298239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C24C2CE-03F3-4FBB-A357-96597C298239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C24C2CE-03F3-4FBB-A357-96597C298239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C24C2CE-03F3-4FBB-A357-96597C298239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF9D9FC-842F-4839-99EA-6418E9A9B91E}
+	EndGlobalSection
+EndGlobal
